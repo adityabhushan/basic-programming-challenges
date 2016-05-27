@@ -1,0 +1,41 @@
+When Flipkart started operations in 2007, e-commerce in India was still at its foetal stage. As an online book seller, the company transacted through e-payments with its customers till 2010. But wanting to reach out to more customers, Flipkart took a risk and launched Cash-on-Delivery (CoD) service. It paid off; the growth was phenomenal. CoD brought the company customers from rural areas, and contributed to 30 percent of its sales in just two months since its launch. Five years later, CoD comprises 80 percent of overall orders for Flipkart.
+
+Today, compared to developed countries, e-commerce in India is more dependent on CoD. While it brings in the trust factor for customers, extra charges on CoD transactions for logistics are troubling marketplaces and sellers alike. Online payments have become mainstream among offline sellers, but customer concerns on revealing financial details still persist.
+
+The last couple of years have seen innovations like mobile wallets and card-on-delivery in the payment sector, but poor infrastructure and complexities in the system have stifled their growth. Yet, CoD is declining, and YourStory dug deeper to understand why.
+Convenience-on-Delivery
+
+There is no denying CoD is the reason why e-commerce could expand beyond metros in India, especially for high value transactions. But Luxepolis, an online shop for luxury goods, has observed that repeat orders mostly happen on credit-card/bank transfers. Vijay KG, Founder, says: “We have 60 percent of transactions happening on CoD. Professional class customers are comfortable paying by credit cards, and business class customers by CoD.”
+
+For Flipkart too, 72 percent of orders from metros are CoD, and 90 percent for Tier II cities. In fact, Bengaluru, Delhi, Hyderabad, Mumbai, Kolkata, Chennai, Pune, Thane, Coimbatore, and Patna provide 35 percent of its overall CoD volume. Neeraj Aggarwal, Vice President (Last Mile), Flipkart, says: “As the customer base has expanded in smaller towns, the ones shifting to other mode of payments in metros have compensated for the difference.”
+Logistics perspective
+
+E-commerce companies pay logistics surcharges for CoD – around Rs 40 per delivery. Additionally, there are insurance and cash-handling costs.  Logistics firms Gojavas and Ecom Express find 70 percent CoD in the shipments they handle. Although CoD is a huge chunk of their revenue, logistics players also agree that online payment is good for the entire ecosystem – it means faster delivery with lesser number of attempts.
+
+Although some websites offer card-on-delivery option, in which the customers can swipe their credit or debit cards after delivery, it is not very popular yet. Shobhit Jain, Head of Express Delivery Business, Gojavas, says: “Card on delivery is less than one percent because most e-commerce websites do not even mention it as an option.”
+
+Free shipping too is not sustainable in long term. While the cost of delivering a package in India is the same as in other markets—about $2—the average selling price is far higher there. Since Indian consumers are more likely to make an online purchase when there is promise of free delivery, Shobhith believes a balance can be sought to reduce costs by lengthening the period for delivery.
+
+Online sellers struggle the most due to CoD. Suraj Vazirani, an Ahmedabad-based online seller, says that since marketplaces do not give an option to the seller to choose only prepaid orders, they have to deal with CoD returns– about 20 percent on average.
+
+“What a customer returns is never checked by the pick-up guys – but before it reaches you, the customer has been refunded, and the marketplace charges the sellers one percent of MRP, charges for pick and pack, other logistics and handling charges, as well as 20 percent of commission, upto Rs 300. All this amount for a product that is not sold,” Suraj complains.
+
+It seems like a vicious chain. Customer not present at home to receive the order entails  multiple attempts for the logistics player to make one delivery. Hence the logistics pricing is a function of the client’s business in prepaid and CoD capacity.
+
+Gojavas has observed that for every successful CoD delivery, the average number of attempts is 1.24, which means it has to invest 24 percent extra manpower in last-mile delivery for CoD orders. Ecom Express has also noticed that compared to prepaid returns, CoD returns are 30-percent more, especially in Tier II cities. “Customers there are extremely guarded with details for net banking,” says T.A. Krishnan, Co-founder, Ecom Express.
+What happens elsewhere
+
+India is one of the few markets where e-commerce is conducted more through CoD than online payments. China’s booming e-commerce is ruled by Alibaba’s payment wallet Alipay and Tencent’s WeChat Payment. In fact, Chinese consumers use these mechanisms to pay at offline stores, for taxis and other services as well. As Alibaba has already invested in Paytm and Snapdeal in India, it may not be a surprise if a similar system is introduced here. Manish Saigal, Managing Director at Alvarez & Marsal consulting firm, is hopeful about it,  as CoD in China went to 30-40 percent in 15 years, whereas in India it became 60 percent in five years.
+
+CoD declined in China when mobile wallets started offering interests. “If Paytm gives seven-percent interest, it’s a saving account and the user will want to use that to shop. Now the money in a mobile wallet is just idle. But at least mobile wallets are available to everyone, unlike credit cards,” says Manish.  He added that shoppers using online payments are growing at 50-60 percent annually.
+
+Most experts agree that only mobile wallet can challenge CoD in a big way. It makes sense – Snapdeal bought FreeCharge; Amazon and Flipkart have mobile wallet businesses; most others use third-party wallets. Paytm, however, sets itself apart with a COD contribution of less than three percent, thanks to its wallet. It claims to have lesser cancellations and returns, as well as faster payment cycles for sellers, and finds no difference between metros and Tier II cities in terms of CoD.
+
+Hyperlocal marketplace Askmebazaar uses the payment gateway Askmepay for local deals, combining it with geo-search to extend e-commerce to the offline world. Kiran Murthi, CEO, AskmeBazaar, says: “With deliveries gone, this world will be born without COD.” He believes that of the total, two-thirds will be home delivery and half of this will be payment on delivery. “So COD should drop to around 30-35 percent in the next couple of years,” adds Kiran.
+Wind of change
+
+While CoD may not be going anywhere just yet, there is definitely a wind of change in the way shoppers part with their money. Neeraj of Flipkart says, “The government’s vision of making India a cashless economy in the next 10-12 years may have an impact on the way customers transact online. However, that entirely depends on the changes the government will impose.”
+
+The government seems to be aware of this. It has cut off surcharges on digital payments for any government service. Utility payments of smaller ticket sizes have also helped grow the habit of transacting online, thanks to the MobiKwik, Paytm et al. Recent data from the Reserve Bank of India states that transactions via digital wallets in 2015 have grown to 153 million in October and December, compared to 65.9 million in the same period in 2014.
+
+The rise of payment banks and mobile wallets will be the game changer for Indian e-commerce. With better infrastructure and right technology, you just might be able to buy a cup of coffee from a roadside shop using online payment soon.
